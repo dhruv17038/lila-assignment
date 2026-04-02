@@ -50,7 +50,7 @@ const btnStyle = {
   borderRadius: "6px", padding: "6px 12px", cursor: "pointer", fontSize: "13px"
 };
 
-const BASE_URL = "http://127.0.0.1:8000";
+const BASE_URL = "https://lila-assignment-production.up.railway.app";
 
 export default function App() {
   const [maps, setMaps] = useState([]);
