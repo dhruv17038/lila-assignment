@@ -15,7 +15,7 @@ app.add_middleware(
 )
 
 import os
-BASE_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "player_data")
+BASE_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "player_data")
 
 
 def load_all_data():
