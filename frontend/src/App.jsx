@@ -50,7 +50,7 @@ const btnStyle = {
   borderRadius: "6px", padding: "6px 12px", cursor: "pointer", fontSize: "13px"
 };
 
-const BASE_URL = "https://lila-assignment-production.up.railway.app";
+const BASE_URL = "https://lila-assignment-5vud.onrender.com";
 
 export default function App() {
   const [maps, setMaps] = useState([]);
