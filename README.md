@@ -40,6 +40,17 @@ This is a Render free tier limitation. The tool works fully once the backend is 
 
 ---
 
+## Screenshots
+
+### Player Paths
+![Player Paths](screenshots/paths.png)
+
+### Heatmap View
+![Heatmap](screenshots/heatmap.png)
+
+### Event Markers
+![Events](screenshots/events.png)
+
 ## Local Setup
 
 ### Backend
