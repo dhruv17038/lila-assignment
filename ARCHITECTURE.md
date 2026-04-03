@@ -2,7 +2,7 @@
 
 ## Live URL
 **Frontend:** https://lila-assignment.vercel.app  
-**Backend API:** https://lila-assignment-production.up.railway.app
+**Backend API:** https://lila-assignment-5vud.onrender.com
 
 ---
 
